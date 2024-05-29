@@ -1,0 +1,53 @@
+<component name="libraryTable">
+  <library name="guicedee.services.apache.poi.ooxml" type="repository">
+    <properties maven-id="com.guicedee.services:apache-poi-ooxml:1.0.5.2-jre13" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/apache-poi-ooxml/1.0.5.2-jre13/apache-poi-ooxml-1.0.5.2-jre13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-compress/1.0.5.2-jre13/commons-compress-1.0.5.2-jre13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-xmlbeans/1.0.5.2-jre13/commons-xmlbeans-1.0.5.2-jre13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/apache-poi/1.0.5.2-jre13/apache-poi-1.0.5.2-jre13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-logging/1.0.5.2-jre13/commons-logging-1.0.5.2-jre13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-codec/1.0.5.2-jre13/commons-codec-1.0.5.2-jre13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-math3/1.0.5.2-jre13/commons-math3-1.0.5.2-jre13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-collections4/1.0.5.2-jre13/commons-collections4-1.0.5.2-jre13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.xml.bind-api/1.0.5.2-jre13/jakarta.xml.bind-api-1.0.5.2-jre13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.activation/1.0.5.2-jre13/jakarta.activation-1.0.5.2-jre13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/javax.activation/1.0.5.2-jre13/javax.activation-1.0.5.2-jre13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.validation-api/1.0.5.2-jre13/jakarta.validation-api-1.0.5.2-jre13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/woodstox/stax2-api/4.2/stax2-api-4.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/staxex/stax-ex/1.8.2/stax-ex-1.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/apache-poi-ooxml/1.0.5.2-jre13/apache-poi-ooxml-1.0.5.2-jre13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-compress/1.0.5.2-jre13/commons-compress-1.0.5.2-jre13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-xmlbeans/1.0.5.2-jre13/commons-xmlbeans-1.0.5.2-jre13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/apache-poi/1.0.5.2-jre13/apache-poi-1.0.5.2-jre13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-logging/1.0.5.2-jre13/commons-logging-1.0.5.2-jre13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-codec/1.0.5.2-jre13/commons-codec-1.0.5.2-jre13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-math3/1.0.5.2-jre13/commons-math3-1.0.5.2-jre13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-collections4/1.0.5.2-jre13/commons-collections4-1.0.5.2-jre13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.xml.bind-api/1.0.5.2-jre13/jakarta.xml.bind-api-1.0.5.2-jre13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.activation/1.0.5.2-jre13/jakarta.activation-1.0.5.2-jre13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/javax.activation/1.0.5.2-jre13/javax.activation-1.0.5.2-jre13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.validation-api/1.0.5.2-jre13/jakarta.validation-api-1.0.5.2-jre13-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/woodstox/stax2-api/4.2/stax2-api-4.2-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/staxex/stax-ex/1.8.2/stax-ex-1.8.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/apache-poi-ooxml/1.0.5.2-jre13/apache-poi-ooxml-1.0.5.2-jre13-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-compress/1.0.5.2-jre13/commons-compress-1.0.5.2-jre13-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-xmlbeans/1.0.5.2-jre13/commons-xmlbeans-1.0.5.2-jre13-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/apache-poi/1.0.5.2-jre13/apache-poi-1.0.5.2-jre13-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-logging/1.0.5.2-jre13/commons-logging-1.0.5.2-jre13-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-codec/1.0.5.2-jre13/commons-codec-1.0.5.2-jre13-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-math3/1.0.5.2-jre13/commons-math3-1.0.5.2-jre13-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/commons-collections4/1.0.5.2-jre13/commons-collections4-1.0.5.2-jre13-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.xml.bind-api/1.0.5.2-jre13/jakarta.xml.bind-api-1.0.5.2-jre13-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.activation/1.0.5.2-jre13/jakarta.activation-1.0.5.2-jre13-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/javax.activation/1.0.5.2-jre13/javax.activation-1.0.5.2-jre13-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.validation-api/1.0.5.2-jre13/jakarta.validation-api-1.0.5.2-jre13-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/woodstox/stax2-api/4.2/stax2-api-4.2-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/staxex/stax-ex/1.8.2/stax-ex-1.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
